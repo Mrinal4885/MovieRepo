@@ -81,4 +81,8 @@ public class MovieController {
 		return ResponseEntity.ok().build();
 	}
 
+	public void info(){
+		System.out.println("info method");
+	}
+
 }
