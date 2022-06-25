@@ -84,4 +84,5 @@ public class MovieController {
 	public void info(){
 		System.out.println("new info method");
 	}
+
 }
