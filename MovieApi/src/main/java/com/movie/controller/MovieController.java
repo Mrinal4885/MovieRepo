@@ -82,7 +82,7 @@ public class MovieController {
 	}
 
 	public void info(){
-		System.out.println("new info method");
+		System.out.println("edit the content");
 	}
 
 }
